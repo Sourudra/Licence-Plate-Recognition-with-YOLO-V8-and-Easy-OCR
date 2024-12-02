@@ -35,3 +35,7 @@ The system uses **YOLOv8** to detect license plates in images or videos. Once a 
 - **Model Optimization:** Exploring methods for reducing inference time and adapting the system for edge devices.  
 
 ---
+## **Check My Other Repo**  
+For detailed information on how I created the model and further insights into the training process, visit my [other repository here](https://github.com/your-username/other-repository).
+
+---
