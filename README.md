@@ -6,7 +6,7 @@ This project integrates **YOLOv8** for license plate detection and **EasyOCR** f
 ---
 
 ## **Why YOLOv8 and EasyOCR?**  
-**YOLOv8** is a state-of-the-art object detection model known for its speed and accuracy, making it ideal for real-time license plate detection. **EasyOCR**, on the other hand, specializes in text recognition, providing reliable results for reading the alphanumeric characters on license plates.
+**YOLOv8** is a state-of-the-art object detection model known for its speed and accuracy, making it ideal for real-time license plate detection. Here YOLOv8 is fine tuned so that it can detect Licence Plate. **EasyOCR**, on the other hand, specializes in text recognition, providing reliable results for reading the alphanumeric characters on license plates.
 
 ---
 
