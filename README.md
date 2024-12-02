@@ -11,7 +11,7 @@ This project integrates **YOLOv8** for license plate detection and **EasyOCR** f
 ---
 
 ## **Project Details**  
-The system uses **YOLOv8** to detect license plates in images or videos. Once a plate is detected, **EasyOCR** extracts the text from the plate. The results, including detected plate numbers, coordinates, and timestamps, are saved in a **CSV** file for further analysis.
+**YOLOv8** is a state-of-the-art object detection model known for its speed and accuracy, making it ideal for real-time license plate detection. In this project, YOLOv8 has been fine-tuned to detect license plates effectively. **EasyOCR**, on the other hand, specializes in text recognition and provides reliable results for reading the alphanumeric characters on license plates
 
 ---
 
