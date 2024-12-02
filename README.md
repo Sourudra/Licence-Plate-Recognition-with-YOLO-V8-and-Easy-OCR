@@ -36,6 +36,6 @@ The system uses **YOLOv8** to detect license plates in images or videos. Once a 
 
 ---
 ## **Check My Other Repo**  
-For detailed information on how I created the model and further insights into the training process, visit my [other repository here](https://github.com/your-username/other-repository).
+For detailed information on how I created the model and further insights into the training process, visit my [other repository here]([https://github.com/your-username/other-repository](https://github.com/Sourudra/Fine-tuning-YOLOv8-for-Licence-Plate-Detection)).
 
 ---
