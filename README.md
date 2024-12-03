@@ -1,5 +1,7 @@
 # **Licence-Plate-Recognition-with-YOLO-V8-and-Easy-OCR**
 
+![anpr](https://github.com/user-attachments/assets/da345073-d6cd-485c-b5dc-8c81cfd311b5)
+
 ## **Project Overview**  
 This project integrates **YOLOv8** for license plate detection and **EasyOCR** for optical character recognition (OCR) to read the detected license plate numbers. The combination allows both the detection of plates in images or videos and the extraction of plate numbers in real-time.
 
